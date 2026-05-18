@@ -1,0 +1,93 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 20px;
+}
+
+
+
+
+h1{
+text-align:center ;
+text-decoration: line-through;
+}
+
+
+h3{ 
+    color:hotpink; 
+    width:200px;
+    text-decoration: underline;
+
+    
+}
+/*  This single comment */
+#work_title{
+    color:darkslategray;
+    border: 1px dashed grey;
+}
+.box{
+    width: 600px;
+    height:200px;
+    border:1px groove limegreen;
+     margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 3%;
+    margin-bottom: 5% ;
+    padding-top: 3%;
+    padding-left: 5%;
+    padding-right: 7%;
+    padding-bottom: 6%;
+}
+p1{ 
+    color:teal;
+}
+.box table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    color: rgb(140, 162, 210);
+   
+}
+p2 { color: green;
+    font-size: large;
+}
+.box_3 { 
+    border-style: solid; 
+    border-color:red ;
+    border-width: 1px;
+    margin: 5px 3px 6% 3%;
+    padding: 3% 5% 7% 6% ;
+    width: 600px
+}
+h2{
+    font-size: xx-large;
+}
+.box h1{
+    color:blueviolet
+}
+
+#hobbies {
+    text-transform: capitalize;
+}
+#hobbies ul li{
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
