@@ -2,13 +2,28 @@ body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font: 20px;
 }
-
-
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: pink;
+}
+.green{
+    color: green;
+}
+nav ul{
+    display: flex;
+    list-style-type:none;
+    gap: 20px;
+}
+nav h1{
+    color: white;
+    text-decoration: none;
+}
 
 
 h1{
 text-align:center ;
-text-decoration: line-through;
+text-decoration:underline;
 font-weight: 600;
 }
 
@@ -119,7 +134,19 @@ a:active {
 
     color:aquamarine;
 }
+.hobbies2 ul{
+    list-style-type:upper-roman  ;
+}
+.computers{
+display: flex;
+}
+.workstation{
+background: red;
+width: 200px;
+height: 200px;
+margin: 5%;
 
+}
 
 
 
